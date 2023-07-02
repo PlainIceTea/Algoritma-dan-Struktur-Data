@@ -1,4 +1,3 @@
-package SMKA;
 import java.util.Scanner;
 
 
